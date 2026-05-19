@@ -51,7 +51,7 @@ cool_mentor.rate_hw(best_student, 'Python', 10)
 print(best_student.grades)
 
 lecturer = Lecturer('Paul', 'Smith')
-reviewer - Reviewer('Dr', 'Dre')
+reviewer = Reviewer('Dr', 'Dre')
 
 print(isinstance(lecturer, Mentor))
 print(isinstance(reviewer, Mentor))
